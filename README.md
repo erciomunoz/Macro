@@ -1,2 +1,2 @@
 # Macro
-Some useful codes for macroeconomics
+Some useful codes
